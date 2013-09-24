@@ -125,8 +125,7 @@ input {
 }
 
 .banner {
-    background-image: url(img/banner.gif);
-
+    background-image: url(img/banner.jpg);
     height: 494px;
     width: 1001px;
     margin: 0px 37px 15px 64px;
